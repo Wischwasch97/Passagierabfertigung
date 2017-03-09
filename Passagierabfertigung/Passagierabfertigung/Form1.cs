@@ -19,13 +19,17 @@ namespace Passagierabfertigung
 
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Form Form2 = new Form2();
+            Form2.Show();
+            this.WindowState = FormWindowState.Minimized;
+      
         }
+     
 
-
-        private void label1_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-
+            
+            this.Close();
         }
     }
 }
