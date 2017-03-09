@@ -19,7 +19,13 @@ namespace Passagierabfertigung
 
         private void button1_Click(object sender, EventArgs e)
         {
-           // fgh
+            this.Close();
+        }
+
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
