@@ -36,6 +36,7 @@
             // 
             // buchen
             // 
+            this.buchen.Font = new System.Drawing.Font("Segoe Print", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buchen.Location = new System.Drawing.Point(291, 407);
             this.buchen.Name = "buchen";
             this.buchen.Size = new System.Drawing.Size(273, 74);
@@ -46,6 +47,7 @@
             // 
             // meinefluege
             // 
+            this.meinefluege.Font = new System.Drawing.Font("Segoe Print", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.meinefluege.Location = new System.Drawing.Point(711, 407);
             this.meinefluege.Name = "meinefluege";
             this.meinefluege.Size = new System.Drawing.Size(273, 74);
