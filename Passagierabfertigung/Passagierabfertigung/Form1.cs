@@ -36,5 +36,27 @@ namespace Passagierabfertigung
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form Register = new Regestrierung();
+            Register.Show();
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
