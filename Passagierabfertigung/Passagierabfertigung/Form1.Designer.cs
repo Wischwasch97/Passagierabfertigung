@@ -111,7 +111,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(652, 300);
+            this.ClientSize = new System.Drawing.Size(647, 305);
             this.Controls.Add(this.textBox2);
             this.Controls.Add(this.Passwort);
             this.Controls.Add(this.label2);
